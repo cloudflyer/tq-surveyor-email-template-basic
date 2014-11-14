@@ -1,0 +1,23 @@
+<library name="libraries" created-date="2014-09-24 09:38:04.314 CEST" modified-date="2014-09-24 09:38:04.314 CEST">
+  <library name="Github Templates" description="" created-date="2014-09-24 10:25:06.844 CEST" modified-date="2014-09-24 13:31:35.907 CEST" modified-by="pwallenius">
+    <library name="HTML Template Basic" description="" type="template" author="pwallenius" company="" created-date="2014-09-24 10:42:43.530 CEST" modified-date="2014-09-24 10:48:43.767 CEST" modified-by="pwallenius" version="11.2.1190">
+      <code>&lt;table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width: 500px;&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Header&lt;/td&gt;
+			&lt;td&gt;Logo&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan=&quot;2&quot;&gt;%auto_layout%&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan=&quot;2&quot; style=&quot;text-align: center;&quot;&gt;Footer&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</code>
+    </library>
+  </library>
+</library>
