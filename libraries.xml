@@ -1,7 +1,7 @@
 <library name="libraries" created-date="2014-09-24 09:38:04.314 CEST" modified-date="2014-09-24 09:38:04.314 CEST">
   <library name="Github Templates" description="" created-date="2014-09-24 10:25:06.844 CEST" modified-date="2014-09-24 13:31:35.907 CEST" modified-by="pwallenius">
-    <library name="HTML Template Basic" description="" type="template" author="pwallenius" company="" created-date="2014-09-24 10:42:43.530 CEST" modified-date="2014-09-24 10:48:43.767 CEST" modified-by="pwallenius" version="11.2.1190">
-      <code>&lt;table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width: 500px;&quot;&gt;
+    <library name="HTML Template Basic" description="" type="template" author="pwallenius" company="TeamQuest" created-date="2014-09-24 10:42:43.530 CEST" modified-date="2014-09-26 16:38:40.426 CEST" modified-by="tjallbrink" version="11.2.1190">
+      <code>&lt;table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width: 800px;&quot;&gt;
 	&lt;tbody&gt;
 		&lt;tr&gt;
 			&lt;td&gt;Header&lt;/td&gt;
